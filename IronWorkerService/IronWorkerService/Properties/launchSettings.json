@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "IronWorkerService": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
